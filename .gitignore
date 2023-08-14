@@ -1,0 +1,5 @@
+*.o
+*.C
+*.pcm
+*.dylib
+StRefMultCorrFiles/CVS/*
